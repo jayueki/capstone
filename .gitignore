@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS System Files
+.DS_Store
+.localized
+--MACOSX/
+._*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# data
+film_data
+*.mp4
+*.m4v
